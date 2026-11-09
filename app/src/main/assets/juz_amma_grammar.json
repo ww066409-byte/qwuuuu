@@ -1,0 +1,1353 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-09",
+  "targetLanguage": "ps",
+  "totalSurahs": 7,
+  "sourceNote": "پښتو اعراب القرآن الکریم - د نحوي او صرفي قواعدو لنډیز د عامه جزء لپاره",
+  "surahs": [
+    {
+      "number": 114,
+      "nameArabic": "سُورَةُ النَّاسِ",
+      "namePashto": "د ناس سورت (د انسانانو سورت)",
+      "nameEnglish": "An-Naas",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت",
+      "ayahCount": 6,
+      "juzNumber": 30,
+      "summaryPashto": "دا سورت د شیطان او وسوسه اچوونکو د شر څخه د انسانانو پالونکي او باچا الله تعالی ته د پناه وړلو نحوي او مانیز بیان دی.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+          "textPashto": "ووايه (اى پېغمبره!): زه د انسانانو د پالونکي پناه غواړم.",
+          "overallTarkibPashto": "قُل فعل امر دی، فاعل یې (أنتَ) مستتر دی. أَعُوذُ فعل مضارع مرفوع، فاعل یې (أنا) مستتر. بِرَبِّ جار او مجرور د أَعُوذُ سره متعلق. النَّاسِ مضاف الیه مجرور دی.",
+          "words": [
+            {
+              "id": "114-1-1",
+              "wordArabic": "قُلْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل امر (د امر فعل)",
+              "grammaticalRolePashto": "فعل امر د مخاطب لپاره",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل امر، مبني پر سکون دی. فاعل یې ضمیر مستتر وجوباً (أَنْتَ) دی، تقدیر یې (ته ای رسوله). دا جمله ابتدائیه ده.",
+              "rootWord": "ق - و - ل"
+            },
+            {
+              "id": "114-1-2",
+              "wordArabic": "أَعُوذُ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع (د حال/راتلونکي فعل)",
+              "grammaticalRolePashto": "فعل مضارع معلوم",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "فعل مضارع مرفوع دی ځکه چې له ناصب او جازم څخه خالي دی، علامة رفعه ظاهره ضمه ده. فاعل یې ضمیر مستتر وجوباً (أَنَا) دی، تقدیر یې (زه). جمله فعلیه د (قُلْ) لپاره مقول القول او په محل د نصب مفعول به ده.",
+              "rootWord": "ع - و - ذ"
+            },
+            {
+              "id": "114-1-3",
+              "wordArabic": "بِرَبِّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جار + اسم مجرور (مرکب اضافي)",
+              "grammaticalRolePashto": "جار او مجرور، مضاف",
+              "caseEndingPashto": "باء حرف جر، رَبِّ مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "الباء: حرف جر دی، مبني پر کسر. رَبِّ: اسم مجرور دی په باء سره، علامة جره ظاهره کَسره ده، او دا مضاف دی. شبه جمله (جار او مجرور) د فعل (أَعُوذُ) سره متعلق دی.",
+              "rootWord": "ر - ب - ب"
+            },
+            {
+              "id": "114-1-4",
+              "wordArabic": "ٱلنَّاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم معرفه (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی د (رَبِّ) لپاره، مجرور دی او د جر نښه یې ظاهره کسره ده.",
+              "rootWord": "ن - و - س / أ - ن - س"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "مَلِكِ ٱلنَّاسِ",
+          "textPashto": "د انسانانو د پاچا (پناه غواړم).",
+          "overallTarkibPashto": "مَلِكِ بدل یا عطف بیان دی د (رَبِّ) څخه، مجرور دی او مضاف دی. النَّاسِ مضاف الیه مجرور دی.",
+          "words": [
+            {
+              "id": "114-2-1",
+              "wordArabic": "مَلِكِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (بدل یا صفت)",
+              "grammaticalRolePashto": "بدل یا عطف بیان له (رَبِّ)",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "بدل یا صفت دی د مخکیني (رَبِّ) لپاره، مجرور دی په ظاهره کسره، او همدا راز مضاف دی.",
+              "rootWord": "م - ل - ك"
+            },
+            {
+              "id": "114-2-2",
+              "wordArabic": "ٱلنَّاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم معرفه (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی د (مَلِكِ) لپاره، مجرور په ظاهره کسره.",
+              "rootWord": "أ - ن - س"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "إِلَٰهِ ٱلنَّاسِ",
+          "textPashto": "د انسانانو د رښتیني معبود.",
+          "overallTarkibPashto": "إِلَٰهِ دوهم بدل یا صفت دی د (رَبِّ) څخه، مجرور او مضاف دی. النَّاسِ مضاف الیه مجرور دی.",
+          "words": [
+            {
+              "id": "114-3-1",
+              "wordArabic": "إِلَٰهِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (دوهم بدل يا عطف بيان)",
+              "grammaticalRolePashto": "بدل ثانٍ له (رَبِّ)",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "بدل ثانٍ (دوهم بدل) دی له (رَبِّ)، مجرور دی په ظاهره کسره، او مضاف دی.",
+              "rootWord": "إ - ل - ه"
+            },
+            {
+              "id": "114-3-2",
+              "wordArabic": "ٱلنَّاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه مجرور دی، نښه یې ظاهره کَسره ده.",
+              "rootWord": "أ - ن - س"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 4,
+          "textArabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+          "textPashto": "د هغه پټېدونکي وسوسه اچوونکي له شر څخه.",
+          "overallTarkibPashto": "مِنْ حرف جر، شَرِّ مجرور او د أَعُوذُ سره متعلق، الْوَسْوَاسِ مضاف الیه، الْخَنَّاسِ د الْوَسْوَاسِ صفت دی.",
+          "words": [
+            {
+              "id": "114-4-1",
+              "wordArabic": "مِن",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر (د پيل لپاره)",
+              "grammaticalRolePashto": "حرف جر",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "حرف جر دی، مبني پر سکون (په کسر بدل شوی د التقاء ساکنین له وجې).",
+              "rootWord": "-"
+            },
+            {
+              "id": "114-4-2",
+              "wordArabic": "شَرِّ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور + مضاف",
+              "grammaticalRolePashto": "اسم مجرور په (مِن)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اسم مجرور دی په (مِن)، نښه یې کَسره ده. مضاف دی، او جار او مجرور د (أَعُوذُ) سره متعلق دي.",
+              "rootWord": "ش - ر - ر"
+            },
+            {
+              "id": "114-4-3",
+              "wordArabic": "ٱلْوَسْوَاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه مجرور",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی د (شَرِّ) لپاره، مجرور دی په ظاهره کَسره. دا د صفت مشبهه وزن لري (شیطان).",
+              "rootWord": "و - س - و - س"
+            },
+            {
+              "id": "114-4-4",
+              "wordArabic": "ٱلْخَنَّاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "صفت (نعت) د الوسواس لپاره",
+              "grammaticalRolePashto": "نعت (صفت) مجرور",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "نعت (صفت) دی د (الْوَسْوَاسِ) لپاره، د موصوف په پیروي مجرور دی او نښه یې کسره ده.",
+              "rootWord": "خ - ن - س"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 5,
+          "textArabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+          "textPashto": "هغه چې د خلكو په سينو كې وسوسې اچوي.",
+          "overallTarkibPashto": "الَّذِي اسم موصول په محل د جر نعت دی، يُوَسْوِسُ صلة الموصول جمله فعلیه ده، فِي صُدُورِ جار او مجرور متعلق به، النَّاسِ مضاف الیه.",
+          "words": [
+            {
+              "id": "114-5-1",
+              "wordArabic": "ٱلَّذِى",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم موصول (نښلوونکی نوم)",
+              "grammaticalRolePashto": "نعت ثانٍ (دوهم صفت) په محل د جر کې",
+              "caseEndingPashto": "مبني پر سکون په محل د جر کې",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "اسم موصول دی، مبني پر سکون، په محل د جر کې د (الْوَسْوَاسِ) لپاره دوهم صفت دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "114-5-2",
+              "wordArabic": "يُوَسْوِسُ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع",
+              "grammaticalRolePashto": "فعل مضارع مرفوع، فاعل مستتر",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "فعل مضارع مرفوع دی په ضمه، فاعل یې مستتر ضمیر (هُوَ) دی چې (الَّذِي) ته راګرځي. جمله د (صلة الموصول) ده چې اعرابي محل نه لري.",
+              "rootWord": "و - س - و - س"
+            },
+            {
+              "id": "114-5-3",
+              "wordArabic": "فِى",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر (د ظرفیت لپاره)",
+              "grammaticalRolePashto": "حرف جر",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "حرف جر دی مبني پر سکون، د ظرفیت معنی ورکوي.",
+              "rootWord": "-"
+            },
+            {
+              "id": "114-5-4",
+              "wordArabic": "صُدُورِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور + مضاف",
+              "grammaticalRolePashto": "اسم مجرور په (فِي)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اسم مجرور دی په (فِي)، نښه یې کَسره ده، او مضاف دی. جار او مجرور د (يُوَسْوِسُ) سره متعلق دي.",
+              "rootWord": "ص - د - ر"
+            },
+            {
+              "id": "114-5-5",
+              "wordArabic": "ٱلنَّاسِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی د (صُدُورِ) لپاره، مجرور په ظاهره کسره.",
+              "rootWord": "أ - ن - س"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 6,
+          "textArabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "textPashto": "که هغه وسوسه اچوونکی له پیریانو څخه وي که له انسانانو څخه.",
+          "overallTarkibPashto": "مِنَ الْجِنَّةِ جار او مجرور د بیان یا حال په توګه، وَ حرف عطف، النَّاسِ معطوف علیه.",
+          "words": [
+            {
+              "id": "114-6-1",
+              "wordArabic": "مِنَ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر (بياني)",
+              "grammaticalRolePashto": "حرف جر بیانیه",
+              "caseEndingPashto": "مبني پر سکون (فتح شوی د التقاء ساکنین لپاره)",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "حرف جر بیاني دی، مبني پر سکون، دلته په فتحه متحرک شوی چې د دوه ساکنو تورو د یوځای کېدو مخه ونیول شي.",
+              "rootWord": "-"
+            },
+            {
+              "id": "114-6-2",
+              "wordArabic": "ٱلْجِنَّةِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور (د پیریانو ډله)",
+              "grammaticalRolePashto": "اسم مجرور په (مِن)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اسم مجرور دی په (مِن)، نښه یې کسره ده. جار او مجرور متعلق دی د محذوف حال سره د فاعل (يُوَسْوِسُ) یا د موصول څخه.",
+              "rootWord": "ج - ن - ن"
+            },
+            {
+              "id": "114-6-3",
+              "wordArabic": "وَٱلنَّاسِ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + اسم معطوف",
+              "grammaticalRolePashto": "معطوف پر (الْجِنَّةِ)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "الواو: حرف عطف دی. النَّاسِ: اسم معطوف دی پر (الْجِنَّةِ)، او د معطوف علیه په شان مجرور دی په ظاهره کَسره.",
+              "rootWord": "أ - ن - س"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "nameArabic": "سُورَةُ الفَلَقِ",
+      "namePashto": "د فلق سورت (د سهار د سپېدو سورت)",
+      "nameEnglish": "Al-Falaq",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت",
+      "ayahCount": 5,
+      "juzNumber": 30,
+      "summaryPashto": "پدې سورت کې د مخلوقاتو، تیارې، جادوګرانو او حسد کوونکو د بدۍ څخه د سباوون پالونکي ته د پناه غوښتلو احکام او نحو بیان شوې ده.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+          "textPashto": "ووايه: زه د سباوون د پالونکي پناه غواړم.",
+          "overallTarkibPashto": "قُلْ فعل امر + فاعل مستتر. أَعُوذُ فعل مضارع مرفوع، فاعل مستتر (أنا). بِرَبِّ جار او مجرور متعلق به، الفَلَقِ مضاف الیه مجرور.",
+          "words": [
+            {
+              "id": "113-1-1",
+              "wordArabic": "قُلْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل امر",
+              "grammaticalRolePashto": "فعل امر، فاعل ضمیر مستتر (أنت)",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل امر مبني پر سکون، فاعل یې وجوباً مستتر ضمیر (أنتَ).",
+              "rootWord": "ق - و - ل"
+            },
+            {
+              "id": "113-1-2",
+              "wordArabic": "أَعُوذُ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع",
+              "grammaticalRolePashto": "فعل مضارع مرفوع، مقول القول",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "فعل مضارع مرفوع په ضمه، فاعل یې (أنا) مستتر. جمله په محل د نصب مفعول به ده د (قل) لپاره.",
+              "rootWord": "ع - و - ذ"
+            },
+            {
+              "id": "113-1-3",
+              "wordArabic": "بِرَبِّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر + اسم مجرور ومضاف",
+              "grammaticalRolePashto": "جار او مجرور متعلق به أَعُوذُ",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "باء حرف جر، رَبِّ مجرور په کسره او مضاف دی، جار او مجرور متعلق په أَعُوذُ پورې.",
+              "rootWord": "ر - ب - ب"
+            },
+            {
+              "id": "113-1-4",
+              "wordArabic": "ٱلْفَلَقِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "مضاف إليه",
+              "grammaticalRolePashto": "مضاف إليه مجرور",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی د (رَبِّ) لپاره، مجرور دی او نښه یې ظاهره کسره ده. الفلق د سهار روښنایي یا سپېدو ته وایي.",
+              "rootWord": "ف - ل - ق"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "مِن شَرِّ مَا خَلَقَ",
+          "textPashto": "د هغه څه له شر څخه چې ده پيدا کړي دي.",
+          "overallTarkibPashto": "مِن شَرِّ جار او مجرور متعلق به أَعُوذُ، مَا اسم موصول په محل د جر مضاف الیه، خَلَقَ صلة الموصول فعل ماضي.",
+          "words": [
+            {
+              "id": "113-2-1",
+              "wordArabic": "مِن",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر",
+              "grammaticalRolePashto": "حرف جر",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "حرف جر مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "113-2-2",
+              "wordArabic": "شَرِّ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور او مضاف",
+              "grammaticalRolePashto": "اسم مجرور په (مِن)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اسم مجرور په (مِن) او مضاف دی. جار او مجرور د (أَعُوذُ) سره متعلق دي.",
+              "rootWord": "ش - ر - ر"
+            },
+            {
+              "id": "113-2-3",
+              "wordArabic": "مَا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم موصول (هر هغه څه چې)",
+              "grammaticalRolePashto": "مضاف إليه په محل د جر کې",
+              "caseEndingPashto": "مبني پر سکون په محل د جر کې",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "اسم موصول مبني پر سکون دی په محل د جر کې مضاف الیه د (شَرِّ) لپاره.",
+              "rootWord": "-"
+            },
+            {
+              "id": "113-2-4",
+              "wordArabic": "خَلَقَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي (تېر مهال)",
+              "grammaticalRolePashto": "فعل ماضي، صلة الموصول",
+              "caseEndingPashto": "مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "فعل ماضي مبني پر فتحه، فاعل یې مستتر ضمیر جوازاً (هُوَ) دی چې الله تعالی ته راګرځي. جمله د صلة الموصول ده.",
+              "rootWord": "خ - ل - ق"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+          "textPashto": "او د تورې شپې له شر څخه کله چې خپره شي.",
+          "overallTarkibPashto": "الواو عاطفه، مِنْ شَرِّ معطوف پر مخکیني، غَاسِقٍ مضاف الیه، إِذَا ظرف زمان، وَقَبَ فعل ماضي شرطیه جمله.",
+          "words": [
+            {
+              "id": "113-3-1",
+              "wordArabic": "وَمِن",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + حرف جر (مِن)",
+              "grammaticalRolePashto": "حرف عطف او جر",
+              "caseEndingPashto": "واو مبني پر فتحه، من مبني پر سکون",
+              "harakah": "فتحه او سکون",
+              "detailedIrabPashto": "الواو حرف عطف، مِن حرف جر مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "113-3-2",
+              "wordArabic": "شَرِّ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور او مضاف",
+              "grammaticalRolePashto": "اسم مجرور، معطوف",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اسم مجرور دی په (مِن)، مضاف دی او نښه یې کَسره ده.",
+              "rootWord": "ش - ر - ر"
+            },
+            {
+              "id": "113-3-3",
+              "wordArabic": "غَاسِقٍ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم فاعل (توره شپه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په تنوین کسره",
+              "harakah": "کسرتین (ٍ)",
+              "detailedIrabPashto": "مضاف الیه مجرور دی په ظاهره کسرې سره (تنوین کسر)، غاسق توره تیاره شپه ده.",
+              "rootWord": "غ - س - ق"
+            },
+            {
+              "id": "113-3-4",
+              "wordArabic": "إِذَا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "ظرف زمان (شرطي وخت)",
+              "grammaticalRolePashto": "ظرف لما يستقبل من الزمان",
+              "caseEndingPashto": "مبني پر سکون په محل د نصب کې",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "ظرف زمان متضمن معنی د شرط، مبني پر سکون په محل د نصب کې.",
+              "rootWord": "-"
+            },
+            {
+              "id": "113-3-5",
+              "wordArabic": "وَقَبَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي",
+              "grammaticalRolePashto": "فعل ماضي په محل مضاف الیه د إذا",
+              "caseEndingPashto": "مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "فعل ماضي مبني پر فتحه، فاعل مستتر (هُوَ) چې غاسق ته راګرځي. جمله فعلیه په محل د جر مضاف الیه ده د (إِذَا) لپاره.",
+              "rootWord": "و - ق - ب"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 4,
+          "textArabic": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+          "textPashto": "او په غوټو کې د چوف کوونکو (ښځو/جادوګرانو) له شر څخه.",
+          "overallTarkibPashto": "معطوف جمله ده. النَّفَّٰثَٰتِ مضاف الیه مجرور، فِي الْعُقَدِ جار او مجرور متعلق به النفاثات.",
+          "words": [
+            {
+              "id": "113-4-1",
+              "wordArabic": "وَمِن شَرِّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + جار او مجرور ومضاف",
+              "grammaticalRolePashto": "معطوف پر مخکیني جار او مجرور",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "واو عاطفه، مِن حرف جر، شَرِّ اسم مجرور او مضاف دی.",
+              "rootWord": "ش - ر - ر"
+            },
+            {
+              "id": "113-4-2",
+              "wordArabic": "ٱلنَّفَّٰثَٰتِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "جمع مؤنث سالم (چوف کوونکي)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مضاف الیه دی، مجرور په ظاهره کَسره. جمع مؤنث سالم د نَفّاثَة ده (هغه نفوس یا ښځې چې په غوټو چوف کوي).",
+              "rootWord": "ن - ف - ث"
+            },
+            {
+              "id": "113-4-3",
+              "wordArabic": "فِى ٱلْعُقَدِ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف جر + اسم مجرور (غوټې)",
+              "grammaticalRolePashto": "جار او مجرور متعلق به النَّفَّٰثَٰتِ",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "فِي حرف جر، الْعُقَدِ اسم مجرور په کسر، د عُقدَة جمع تکسیر ده. شبه جمله د النفاثات صفت یا متعلق دی.",
+              "rootWord": "ع - ق - د"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 5,
+          "textArabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "textPashto": "او د حسد کونکي له شر څخه کله چې حسد وکړي.",
+          "overallTarkibPashto": "معطوف، حَاسِدٍ مضاف الیه مجرور، إِذَا ظرف، حَسَدَ فعل ماضي او فاعل مستتر.",
+          "words": [
+            {
+              "id": "113-5-1",
+              "wordArabic": "وَمِن شَرِّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + جار او مجرور",
+              "grammaticalRolePashto": "معطوف",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "معطوف دی پر مخکینیو جملو، شر مضاف دی.",
+              "rootWord": "ش - ر - ر"
+            },
+            {
+              "id": "113-5-2",
+              "wordArabic": "حَاسِدٍ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم فاعل (کینه کښ، کینه‌ګر)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په تنوین کسره",
+              "harakah": "کسرتین (ٍ)",
+              "detailedIrabPashto": "مضاف الیه مجرور په تنوین کسره. اسم فاعل له حسد څخه.",
+              "rootWord": "ح - س - د"
+            },
+            {
+              "id": "113-5-3",
+              "wordArabic": "إِذَا حَسَدَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "ظرف زمان + فعل ماضي",
+              "grammaticalRolePashto": "ظرف شرط + فعل ماضي مع الفاعل",
+              "caseEndingPashto": "إذا مبني، حسد مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "إِذَا ظرف زمان مبني پر سکون. حَسَدَ فعل ماضي مبني پر فتحه، فاعل یې ضمیر مستتر (هُوَ) دی چې حاسد ته راګرځي. جمله په محل د جر مضاف الیه ده.",
+              "rootWord": "ح - س - د"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "nameArabic": "سُورَةُ الإِخْلَاصِ",
+      "namePashto": "د اخلاص سورت (د توحید سورت)",
+      "nameEnglish": "Al-Ikhlaas",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت",
+      "ayahCount": 4,
+      "juzNumber": 30,
+      "summaryPashto": "د توحید تر ټولو جامع سورت دی چې د الله تعالی یووالی، بې نیازي، او له مثل او اولاد څخه پاکوالی په دقیق نحوي جوړښت ثابتوي.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+          "textPashto": "ووايه: هغه الله يو دی.",
+          "overallTarkibPashto": "قُل فعل امر، هُوَ ضمير الشأن مبتدأ اول، اللَّهُ مبتدأ ثانٍ، أَحَدٌ خبر د مبتدأ ثانٍ، او دواړه په ګډه خبر د هُوَ جوړوي.",
+          "words": [
+            {
+              "id": "112-1-1",
+              "wordArabic": "قُلْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل امر",
+              "grammaticalRolePashto": "فعل امر، فاعل وجوباً مستتر (أنت)",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل امر مبني پر سکون دی، فاعل مستتر وجوباً (أَنْتَ) دی.",
+              "rootWord": "ق - و - ل"
+            },
+            {
+              "id": "112-1-2",
+              "wordArabic": "هُوَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "ضمير منفصل (ضمير الشأن)",
+              "grammaticalRolePashto": "مبتدأ اول په محل د رفع کې",
+              "caseEndingPashto": "مبني پر فتحه په محل د رفع کې",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "ضمیر منفصل دی (ضمیر الشأن او القصة)، مبني پر فتحه دی په محل د رفع کې ځکه چې مبتدأ دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "112-1-3",
+              "wordArabic": "ٱللَّهُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "لفظ الجلالة (اسم علم)",
+              "grammaticalRolePashto": "مبتدأ دوهم (یا خبر لومړی)",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "لفظ الجلالة مبتدأ ثانٍ (یا مبتدأ مستقل) دی، مرفوع دی په ظاهره ضمه.",
+              "rootWord": "أ - ل - ه"
+            },
+            {
+              "id": "112-1-4",
+              "wordArabic": "أَحَدٌ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (خبر)",
+              "grammaticalRolePashto": "خبر د لفظ الجلالة",
+              "caseEndingPashto": "مرفوع په تنوین ضمه",
+              "harakah": "ضمتین (ٌ)",
+              "detailedIrabPashto": "خبر دی د لفظ الجلالة (اللَّهُ) لپاره، مرفوع دی په تنوین ضمه. اسمیه جمله (اللَّهُ أَحَدٌ) په محل د رفع کې خبر ده د (هُوَ) لپاره.",
+              "rootWord": "و - ح - د"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "ٱللَّهُ ٱلصَّمَدُ",
+          "textPashto": "الله بې نیازه (او د ټولو اړتیاوو پوره کوونکی) دی.",
+          "overallTarkibPashto": "اللَّهُ مبتدأ مرفوع دی، الصَّمَدُ معرفه خبر دی چې د حصر او اختصاص فایده رسوي.",
+          "words": [
+            {
+              "id": "112-2-1",
+              "wordArabic": "ٱللَّهُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "لفظ الجلالة",
+              "grammaticalRolePashto": "مبتدأ مرفوع",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "لفظ الجلالة مبتدأ دی، مرفوع دی او علامة رفعه ظاهره ضمه ده.",
+              "rootWord": "أ - ل - ه"
+            },
+            {
+              "id": "112-2-2",
+              "wordArabic": "ٱلصَّمَدُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (صفت مشبهه/خبر)",
+              "grammaticalRolePashto": "خبر مرفوع",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "خبر دی د مبتدأ لپاره، مرفوع په ظاهره ضمه. د صمد مانا ده: هغه ښاغلی او واکمن چې ټول کائنات ورته په خپلو اړتیاوو کې مخ اړوي او پخپله له هر څه بې نیازه دی.",
+              "rootWord": "ص - م - د"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "textPashto": "نه يې څوک زېږولي او نه پخپله له چا زېږېدلی دی.",
+          "overallTarkibPashto": "لَمْ حرف جزم او نفي، يَلِدْ فعل مضارع مجزوم معلوم، واو عاطفه، لَمْ حرف جزم، يُولَدْ فعل مضارع مجزوم مجهول او نائب الفاعل مستتر.",
+          "words": [
+            {
+              "id": "112-3-1",
+              "wordArabic": "لَمْ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف نفي، جزم، او قلب",
+              "grammaticalRolePashto": "حرف جازم",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "حرف نفي، جزم او قلب دی (د مضارع مانا ماضي ته اړوي)، مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "112-3-2",
+              "wordArabic": "يَلِدْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع معلوم",
+              "grammaticalRolePashto": "فعل مضارع مجزوم په (لَمْ)",
+              "caseEndingPashto": "مجزوم په سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل مضارع معلوم مجزوم دی په (لَمْ)، علامة جزمه سکون ده. فاعل یې ضمیر مستتر جوازاً (هُوَ) دی چې الله تعالی ته راګرځي.",
+              "rootWord": "و - ل - د"
+            },
+            {
+              "id": "112-3-3",
+              "wordArabic": "وَلَمْ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + حرف جزم (لَمْ)",
+              "grammaticalRolePashto": "معطوف جازم",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "الواو حرف عطف دی، لَمْ حرف نفي او جزم مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "112-3-4",
+              "wordArabic": "يُولَدْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع مجهول (سېبولی)",
+              "grammaticalRolePashto": "فعل مضارع مجهول مجزوم",
+              "caseEndingPashto": "مجزوم په سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل مضارع مجهول (مبني للمفعول) دی، مجزوم دی په (لَمْ)، د جزم نښه یې سکون ده. نائب الفاعل یې ضمیر مستتر جوازاً (هُوَ) دی.",
+              "rootWord": "و - ل - د"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 4,
+          "textArabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "textPashto": "او هيڅوك د هغه سیال او برابر نه شته.",
+          "overallTarkibPashto": "واو عاطفه، لَمْ جازمه، يَكُنْ فعل مضارع ناقص مجزوم، لَهُ جار او مجرور متعلق به، كُفُوًا خبر مقدم منصوب، أَحَدٌ اسم موخر مرفوع.",
+          "words": [
+            {
+              "id": "112-4-1",
+              "wordArabic": "وَلَمْ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + لَمْ جازمه",
+              "grammaticalRolePashto": "حرف عطف او نفي وجزم",
+              "caseEndingPashto": "مبني",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "الواو حرف عطف، لَمْ حرف نفي وجزم وقلب مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "112-4-2",
+              "wordArabic": "يَكُن",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع ناقص مجزوم",
+              "grammaticalRolePashto": "فعل ناقص (له کان او خویندو څخه)",
+              "caseEndingPashto": "مجزوم په سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "فعل مضارع ناقص دی له (کانَ)، مجزوم دی په (لَمْ)، علامة جزمه سکون ده پر نون باندې (واو د التقاء ساکنین له امله غورځېدلی: اصل یې کَانَ / يَكُونُ و).",
+              "rootWord": "ك - و - ن"
+            },
+            {
+              "id": "112-4-3",
+              "wordArabic": "لَّهُۥ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "لام حرف جر + ها ضمیر متصل",
+              "grammaticalRolePashto": "جار او مجرور",
+              "caseEndingPashto": "ها مبني پر ضم په محل د جر کې",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "اللام حرف جر، الهاء ضمیر متصل مبني پر ضم په محل د جر کې. جار او مجرور د (كُفُوًا) سره متعلق دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "112-4-4",
+              "wordArabic": "كُفُوًا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (خبر مقدم د کان)",
+              "grammaticalRolePashto": "خبر مقدم د يَكُنْ",
+              "caseEndingPashto": "منصوب په تنوین فتحه",
+              "harakah": "فتحتین (ً)",
+              "detailedIrabPashto": "خبر مقدم دی د (يَكُنْ) لپاره، منصوب دی او علامة نصبه ظاهره تنوین فتحه ده. مخکې راوستل یې د اهتمام او فصاحت لپاره دي.",
+              "rootWord": "ك - ف - أ"
+            },
+            {
+              "id": "112-4-5",
+              "wordArabic": "أَحَدٌۢ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (اسم موخر د کان)",
+              "grammaticalRolePashto": "اسم مؤخر د يَكُنْ",
+              "caseEndingPashto": "مرفوع په تنوین ضمه",
+              "harakah": "ضمتین (ٌ)",
+              "detailedIrabPashto": "اسم مؤخر دی د (يَكُنْ) لپاره، مرفوع دی او علامة رفعه ظاهره تنوین ضمه ده.",
+              "rootWord": "أ - ح - د"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "nameArabic": "سُورَةُ الكَوْثَرِ",
+      "namePashto": "د کوثر سورت (د ډېرو خیرونو سورت)",
+      "nameEnglish": "Al-Kawthar",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت",
+      "ayahCount": 3,
+      "juzNumber": 30,
+      "summaryPashto": "د قرآن کریم تر ټولو لنډ سورت چې نبي کریم صلی الله علیه وسلم ته د ډېر خیر (کوثر حوض او نبوت) زیری او د دښمن د بې نومه پاتې کېدو نحوي او بلاغي اعلان کوي.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+          "textPashto": "بېشکه موږ تاته ډېر زیات خیر (او د کوثر حوض) درکړی دی.",
+          "overallTarkibPashto": "إِنَّ حرف مشبه بالفعل او (نا) ضمیر د هغې اسم دی، أَعْطَيْنَا فعل ماضي او فاعل (نا)، کاف اول مفعول به، الْكَوْثَرَ دوهم مفعول به منصوب.",
+          "words": [
+            {
+              "id": "108-1-1",
+              "wordArabic": "إِنَّآ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف مشبه بالفعل + نا ضمیر متصل",
+              "grammaticalRolePashto": "حرف توکید او د هغې اسم",
+              "caseEndingPashto": "إنّ مبني پر فتحه، نا په محل د نصب کې اسم د إنّ",
+              "harakah": "فتحه او سکون",
+              "detailedIrabPashto": "إِنَّ: حرف توکید او نصب مبني پر فتحه. (نا): ضمیر متصل مبني پر سکون په محل د نصب کې د إِنَّ اسم دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "108-1-2",
+              "wordArabic": "أَعْطَيْنَٰكَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي + نا فاعل + کاف مفعول لومړی",
+              "grammaticalRolePashto": "فعل ماضي متعدي دوه مفعولونو ته",
+              "caseEndingPashto": "فعل مبني پر سکون، نا فاعل، کاف مفعول اول په محل د نصب",
+              "harakah": "مختلف",
+              "detailedIrabPashto": "أَعْطَيْ: فعل ماضي مبني پر سکون د نا فاعلین سره نښلیدو له امله. (نا): ضمیر متصل مبني پر سکون په محل د رفع کې فاعل. (الکاف): ضمیر متصل مبني پر فتح په محل د نصب کې لومړی مفعول به. جمله په محل د رفع کې د إِنَّ خبر ده.",
+              "rootWord": "ع - ط - و"
+            },
+            {
+              "id": "108-1-3",
+              "wordArabic": "ٱلْكَوْثَرَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم معرفه (دوهم مفعول)",
+              "grammaticalRolePashto": "مفعول به ثانٍ (دوهم مفعول به)",
+              "caseEndingPashto": "منصوب په ظاهره فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "مفعول به ثانٍ دی د (أَعْطَى) فعل لپاره، منصوب دی او د نصب نښه یې ظاهره فتحه ده. کوثر د فَوْعَل په وزن کثرت او ډېرښت ښیي.",
+              "rootWord": "ك - ث - ر"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+          "textPashto": "نو ته د خپل پالونکي لپاره لمونځ وکړه او قرباني وکړه.",
+          "overallTarkibPashto": "فاء سببیه/رابطه، صَلِّ فعل امر مبني پر حذف حرف علت، لِرَبِّكَ جار او مجرور ومضاف، واو عاطفه، انْحَرْ فعل امر مبني پر سکون.",
+          "words": [
+            {
+              "id": "108-2-1",
+              "wordArabic": "فَصَلِّ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فاء رابطه د جواب لپاره + فعل امر",
+              "grammaticalRolePashto": "فعل امر د مخاطب لپاره",
+              "caseEndingPashto": "مبني پر حذف د حرف علت (ياء)",
+              "harakah": "کسره د حذف د ياء دلالت",
+              "detailedIrabPashto": "الفاء: رابطه ده د مخکیني نعمت د شکر د امر لپاره. صَلِّ: فعل امر دی، مبني پر حذف د حرف علت (ياء) دی، کَسره یې نښه ده. فاعل مستتر وجوباً (أَنْتَ).",
+              "rootWord": "ص - ل - و"
+            },
+            {
+              "id": "108-2-2",
+              "wordArabic": "لِرَبِّكَ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "لام حرف جر + رَبّ مجرور او مضاف + کاف مضاف الیه",
+              "grammaticalRolePashto": "جار او مجرور متعلق به صَلِّ",
+              "caseEndingPashto": "رَبِّ مجرور په کسره، کاف په محل د جر مضاف الیه",
+              "harakah": "کسره او فتحه",
+              "detailedIrabPashto": "اللام: حرف جر اختصاص او اخلاص. رَبِّ: اسم مجرور دی په کسر او مضاف دی. (الکاف): ضمیر متصل مبني پر فتح په محل د جر کې مضاف الیه دی.",
+              "rootWord": "ر - ب - ب"
+            },
+            {
+              "id": "108-2-3",
+              "wordArabic": "وَٱنْحَرْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "واو عاطفه + فعل امر",
+              "grammaticalRolePashto": "فعل امر معطوف پر صَلِّ",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "الواو حرف عطف دی. انْحَرْ فعل امر دی مبني پر سکون، فاعل یې وجوباً مستتر ضمیر (أَنْتَ) دی. نحر د اوښ یا څاروي د قربانۍ کولو معنی لري.",
+              "rootWord": "ن - ح - ر"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+          "textPashto": "بېشکه ستا بد غوښتونکی (او دښمن)، همغه بې نسله او ناکام دی.",
+          "overallTarkibPashto": "إِنَّ حرف توکید، شَانِئَ اسم د إنَّ منصوب او مضاف، کاف مضاف الیه، هُوَ ضمیر فصل، الأَبْتَرُ خبر د إنَّ مرفوع.",
+          "words": [
+            {
+              "id": "108-3-1",
+              "wordArabic": "إِنَّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف توکید او نصب",
+              "grammaticalRolePashto": "حرف مشبه بالفعل",
+              "caseEndingPashto": "مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "حرف مشبه بالفعل دی، د توکید لپاره کارېږي، مبني پر فتحه دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "108-3-2",
+              "wordArabic": "شَانِئَكَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم فاعل (اسم إِنَّ) او مضاف + کاف ضمیر",
+              "grammaticalRolePashto": "اسم د إِنَّ منصوب",
+              "caseEndingPashto": "منصوب په ظاهره فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "شَانِئَ: اسم دی د إِنَّ لپاره، منصوب دی په ظاهره فتحه او مضاف دی. (الکاف): ضمیر متصل مبني پر فتح په محل د جر کې مضاف الیه دی. شانيء د دښمن او کینه کښ مانا لري.",
+              "rootWord": "ش - ن - أ"
+            },
+            {
+              "id": "108-3-3",
+              "wordArabic": "هُوَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "ضمير فصل (بېلېدونکی ضمير د حصر لپاره)",
+              "grammaticalRolePashto": "ضمير فصل (یا مبتدأ دوهم)",
+              "caseEndingPashto": "مبني پر فتحه، اعرابي محل نه لري",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "ضمیر فصل دی د اختصاص او ټینګار لپاره، مبني پر فتح دی او هیڅ اعرابي محل نه لري.",
+              "rootWord": "-"
+            },
+            {
+              "id": "108-3-4",
+              "wordArabic": "ٱلْأَبْتَرُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم (خبر د إِنَّ)",
+              "grammaticalRolePashto": "خبر د إِنَّ مرفوع",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "خبر دی د إِنَّ لپاره، مرفوع دی او علامة رفعه ظاهره ضمه ده. الابتر د هغه چا صفت دی چې ټول خیر ترې شلېدلی وي.",
+              "rootWord": "ب - ت - ر"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "nameArabic": "سُورَةُ النَّصْرِ",
+      "namePashto": "د نصر سورت (د مرستې او فتحې سورت)",
+      "nameEnglish": "An-Nasr",
+      "revelationType": "مدنية",
+      "revelationPashto": "مدني سورت",
+      "ayahCount": 3,
+      "juzNumber": 30,
+      "summaryPashto": "دا سورت د مکې مکرمې د فتحې او په دین کې د خلکو د ډلو ډلو داخلیدو او د استغفار او تسبیح کولو حکم په نحوي شرطیه جوړښت کې بیانوي.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+          "textPashto": "کله چې د الله تعالی مرسته او فتحه (د مکې بریا) راشي.",
+          "overallTarkibPashto": "إِذَا ظرف زمان شرطیه، جَاءَ فعل ماضي شرط، نَصْرُ فاعل مرفوع ومضاف، اللَّهِ مضاف الیه، والفتح معطوف مرفوع.",
+          "words": [
+            {
+              "id": "110-1-1",
+              "wordArabic": "إِذَا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "ظرف زمان متضمن معنی د شرط",
+              "grammaticalRolePashto": "ظرف شرط په محل د نصب کې",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "ظرف لما يستقبل من الزمان متضمن معنى الشرط خافض لشرطه منصوب بجوابه مبني على السكون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "110-1-2",
+              "wordArabic": "جَآءَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي",
+              "grammaticalRolePashto": "فعل ماضي د شرط",
+              "caseEndingPashto": "مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "فعل ماضي مبني پر فتحه دی. جمله په محل د جر کې مضاف الیه ده د (إِذَا) لپاره.",
+              "rootWord": "ج - ي - ء"
+            },
+            {
+              "id": "110-1-3",
+              "wordArabic": "نَصْرُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "فاعل مرفوع او مضاف",
+              "grammaticalRolePashto": "فاعل د جَاءَ",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "فاعل دی د (جَاءَ) لپاره، مرفوع په ظاهره ضمه او مضاف دی.",
+              "rootWord": "ن - ص - ر"
+            },
+            {
+              "id": "110-1-4",
+              "wordArabic": "ٱللَّهِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "لفظ الجلالة (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "لفظ الجلالة مضاف الیه دی، مجرور په ظاهره کسره تعظیماً.",
+              "rootWord": "أ - ل - ه"
+            },
+            {
+              "id": "110-1-5",
+              "wordArabic": "وَٱلْفَتْحُ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو عاطفه + اسم معطوف",
+              "grammaticalRolePashto": "معطوف پر نَصْرُ",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "الواو حرف عطف، الْفَتْحُ معطوف دی پر (نَصْرُ) باندې، مرفوع دی په ظاهره ضمه.",
+              "rootWord": "ف - ت - ح"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+          "textPashto": "او ته وګورې چې خلك د الله په دين كې ډلې ډلې ننوځي.",
+          "overallTarkibPashto": "واو عاطفه، رَأَيْتَ فعل او فاعل (تَ)، النَّاسَ مفعول به اول، يَدْخُلُونَ جمله فعلیه مفعول دوهم یا حال، فِي دِينِ اللَّهِ جار ومجرور ومضاف الیه، أَفْوَاجًا حال منصوب.",
+          "words": [
+            {
+              "id": "110-2-1",
+              "wordArabic": "وَرَأَيْتَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي + تاء فاعل",
+              "grammaticalRolePashto": "فعل ماضي متعدي مع الفاعل",
+              "caseEndingPashto": "مبني پر سکون د تاء له امله",
+              "harakah": "سکون او فتحه",
+              "detailedIrabPashto": "الواو حرف عطف. رَأَيْ: فعل ماضي مبني پر سکون. (التاء): ضمیر متصل مبني پر فتح په محل د رفع کې فاعل دی.",
+              "rootWord": "ر - أ - ي"
+            },
+            {
+              "id": "110-2-2",
+              "wordArabic": "ٱلنَّاسَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "مفعول به",
+              "grammaticalRolePashto": "مفعول به منصوب",
+              "caseEndingPashto": "منصوب په ظاهره فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "مفعول به دی د (رَأَيْتَ) لپاره، منصوب دی په ظاهره فتحه.",
+              "rootWord": "أ - ن - س"
+            },
+            {
+              "id": "110-2-3",
+              "wordArabic": "يَدْخُلُونَ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل مضارع له افعال خمسه څخه",
+              "grammaticalRolePashto": "فعل مضارع مرفوع په ثبوت د نون",
+              "caseEndingPashto": "مرفوع بثبوت النون، واو فاعل دی",
+              "harakah": "نون ثابته",
+              "detailedIrabPashto": "فعل مضارع مرفوع بثبوت النون دی ځکه له افعال خمسه څخه دی. واو الجماعة ضمیر متصل مبني پر سکون په محل د رفع کې فاعل دی. جمله فعلیه په محل د نصب کې حال یا دوهم مفعول دی.",
+              "rootWord": "د - خ - ل"
+            },
+            {
+              "id": "110-2-4",
+              "wordArabic": "أَفْوَاجًا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم جمع (حال بیانونکی)",
+              "grammaticalRolePashto": "حال منصوب د فاعل (واو) څخه",
+              "caseEndingPashto": "منصوب په تنوین فتحه",
+              "harakah": "فتحتین (ً)",
+              "detailedIrabPashto": "حال منصوب دی د (الواو) ضمیر څخه په يَدْخُلُونَ کې، علامة نصبه تنوین فتحه ده (ډلې ډلې).",
+              "rootWord": "ف - و - ج"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+          "textPashto": "نو ته د خپل پالونکي د ستاینې سره تسبیح ووایه او له هغه بښنه وغواړه، بېشکه هغه ډېر توبه قبلوونکی دی.",
+          "overallTarkibPashto": "فاء جواب الشرط، سَبِّحْ فعل امر فاعل مستتر، بِحَمْدِ رَبِّكَ جار او مجرور ومضاف ومضاف الیه، اسْتَغْفِرْهُ معطوف امر او مفعول به (هاء)، إِنَّهُ كَانَ تَوَّابًا جمله تعلیلیه.",
+          "words": [
+            {
+              "id": "110-3-1",
+              "wordArabic": "فَسَبِّحْ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فاء جواب شرط + فعل امر",
+              "grammaticalRolePashto": "جواب الشرط",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "الفاء د جواب شرط لپاره ده. سَبِّحْ فعل امر دی مبني پر سکون، فاعل یې وجوباً مستتر (أَنْتَ).",
+              "rootWord": "س - ب - ح"
+            },
+            {
+              "id": "110-3-2",
+              "wordArabic": "بِحَمْدِ رَبِّكَ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "جار او مجرور او مضاف او مضاف الیه",
+              "grammaticalRolePashto": "شبه جمله حال یا متعلق",
+              "caseEndingPashto": "حمد مجرور، رب مجرور، کاف په محل جر",
+              "harakah": "کسره",
+              "detailedIrabPashto": "الباء حرف جر للملابسة (حال)، حَمْدِ مجرور او مضاف، رَبِّ مضاف الیه او مضاف، الکاف مضاف الیه مبني پر فتح.",
+              "rootWord": "ح - م - د"
+            },
+            {
+              "id": "110-3-3",
+              "wordArabic": "وَٱسْتَغْفِرْهُ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "واو عاطفه + فعل امر + مفعول به",
+              "grammaticalRolePashto": "معطوف امر او مفعول به",
+              "caseEndingPashto": "امر مبني پر سکون، هاء په محل د نصب",
+              "harakah": "سکون او ضم",
+              "detailedIrabPashto": "الواو عاطفه. اسْتَغْفِرْ فعل امر مبني پر سکون، فاعل مستتر (أنت). الهاء ضمیر متصل مبني پر ضم په محل د نصب کې مفعول به دی.",
+              "rootWord": "غ - ف - ر"
+            },
+            {
+              "id": "110-3-4",
+              "wordArabic": "إِنَّهُۥ كَانَ تَوَّابًۢا",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "إنّ او د هغې اسم + کانَ او د هغې خبر",
+              "grammaticalRolePashto": "جمله اسمیه تعلیلیه",
+              "caseEndingPashto": "تَوَّابًا منصوب خبر د کانَ",
+              "harakah": "فتحتین (ً)",
+              "detailedIrabPashto": "إِنَّ حرف توکید، الهاء اسم یې. كَانَ فعل ماضي ناقص، اسم یې مستتر (هُوَ). تَوَّابًا خبر د کَانَ منصوب په فتحه. دا جمله تعلیلیه ده.",
+              "rootWord": "ت - و - ب"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "nameArabic": "سُورَةُ العَصْرِ",
+      "namePashto": "د عصر سورت (د زمانې سورت)",
+      "nameEnglish": "Al-Asr",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت",
+      "ayahCount": 3,
+      "juzNumber": 30,
+      "summaryPashto": "امام شافعي رحمة الله علیه فرمایي که خلکو یواځې په دې سورت کې فکر کړی وای، نو دا به ورته کافي و. دلته د وخت قسم، د انسان زیان، او څلور نجات بښونکي شرطونه په فصیحه نحو بیان شوي.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "وَٱلْعَصْرِ",
+          "textPashto": "قسم دی په زمانه (یا د مازدیګر په وخت).",
+          "overallTarkibPashto": "واو قسم دی چې د حرف جر عمل کوي، الْعَصْرِ اسم مجرور په واو القسم دی، او جار ومجرور د محذوف فعل قسم (أُقْسِمُ) سره متعلق دي.",
+          "words": [
+            {
+              "id": "103-1-1",
+              "wordArabic": "وَٱلْعَصْرِ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "واو قسم (حرف جر) + اسم مجرور",
+              "grammaticalRolePashto": "واو القسم والجر ومجرورها",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "الواو حرف قسم او جر دی، مبني پر فتحه. العَصْرِ اسم مجرور دی په واو، علامة جره ظاهره کسره ده. جار او مجرور متعلق دی د محذوف فعل سره (أُقْسِمُ).",
+              "rootWord": "ع - ص - ر"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+          "textPashto": "بېشکه انسان هرومرو په لوی تاوان او زیان کې دی.",
+          "overallTarkibPashto": "إِنَّ حرف توکید جواب القسم دی، الإِنْسَانَ اسم د إنَّ منصوب، اللام لام مزحلقة (د توکید لام)، فِي خُسْرٍ شبه جمله جار او مجرور په محل د رفع خبر د إنَّ دی.",
+          "words": [
+            {
+              "id": "103-2-1",
+              "wordArabic": "إِنَّ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف توکید او نصب",
+              "grammaticalRolePashto": "حرف مشبه بالفعل (جواب القسم)",
+              "caseEndingPashto": "مبني پر فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "حرف توکید او نصب مبني پر فتحه. جمله د جواب قسم ده چې اعرابي محل نه لري.",
+              "rootWord": "-"
+            },
+            {
+              "id": "103-2-2",
+              "wordArabic": "ٱلْإِنسَٰنَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم معرفه جنسي (اسم د إِنَّ)",
+              "grammaticalRolePashto": "اسم د إِنَّ منصوب",
+              "caseEndingPashto": "منصوب په ظاهره فتحه",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "اسم دی د إِنَّ لپاره، منصوب دی په ظاهره فتحه. الف او لام دلته د جنس او استغراق لپاره راغلي دي (یعنې ټول انسانان).",
+              "rootWord": "أ - ن - س"
+            },
+            {
+              "id": "103-2-3",
+              "wordArabic": "لَفِى",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "لام مزحلقة (ټینګار) + فِي حرف جر",
+              "grammaticalRolePashto": "لام التوکید او حرف جر",
+              "caseEndingPashto": "لام مبني پر فتحه",
+              "harakah": "فتحه او سکون",
+              "detailedIrabPashto": "اللام لام المزحلقة ده چې د خبر د ټینګار لپاره ننوځي. فِي حرف جر دی مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "103-2-4",
+              "wordArabic": "خُسْرٍ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم مجرور په تنوین کسره",
+              "grammaticalRolePashto": "اسم مجرور، شبه جمله خبر",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسرتین (ٍ)",
+              "detailedIrabPashto": "اسم مجرور دی په (فِي) او نښه یې تنوین کسره ده. تنوین دلته د تاوان د عظمت او ستروالي لپاره دی. شبه جمله (فِي خُسْرٍ) په محل د رفع خبر د إِنَّ دی.",
+              "rootWord": "خ - س - ر"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 3,
+          "textArabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "textPashto": "مګر هغه کسان چې ایمان یې راوړی او نېک عملونه یې کړي او یو بل ته یې د حق وصیت کړی او یو بل ته یې د صبر وصیت کړی دی.",
+          "overallTarkibPashto": "إِلَّا د استثناء اداة ده، الَّذِينَ اسم موصول په محل د نصب مستثنى، آمَنُوا صلة الموصول فعل او فاعل، الصَّالِحَاتِ مفعول به منصوب په کسره ځکه جمع مؤنث سالم دی، تواصلوا او بالحق معطوفات دي.",
+          "words": [
+            {
+              "id": "103-3-1",
+              "wordArabic": "إِلَّا",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "حرف استثناء (بېلوونکی حرف)",
+              "grammaticalRolePashto": "اداة استثناء",
+              "caseEndingPashto": "مبني پر سکون",
+              "harakah": "سکون (ْ)",
+              "detailedIrabPashto": "حرف استثناء دی مبني پر سکون.",
+              "rootWord": "-"
+            },
+            {
+              "id": "103-3-2",
+              "wordArabic": "ٱلَّذِينَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم موصول (مستثنى)",
+              "grammaticalRolePashto": "مستثنى په محل د نصب کې",
+              "caseEndingPashto": "مبني پر فتحه په محل د نصب",
+              "harakah": "فتحه (َ)",
+              "detailedIrabPashto": "اسم موصول مبني پر فتحه دی په محل د نصب کې مستثنى له (الإنسان) څخه ځکه انسان عام دی.",
+              "rootWord": "-"
+            },
+            {
+              "id": "103-3-3",
+              "wordArabic": "ءَامَنُوا۟",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي + واو فاعل",
+              "grammaticalRolePashto": "فعل ماضي مبني پر ضم",
+              "caseEndingPashto": "مبني پر ضم د واو الجمع سره نښلیدو له وجې",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "فعل ماضي مبني پر ضم د واو الجماعة له وجې. والواو ضمیر متصل مبني پر سکون په محل د رفع فاعل. جمله صلة الموصول ده.",
+              "rootWord": "أ - م - ن"
+            },
+            {
+              "id": "103-3-4",
+              "wordArabic": "ٱلصَّٰلِحَٰتِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "جمع مؤنث سالم (مفعول به)",
+              "grammaticalRolePashto": "مفعول به منصوب په کَسره",
+              "caseEndingPashto": "منصوب په کَسره (نیابتي نښه)",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "مفعول به دی د (عَمِلُوا) لپاره، منصوب دی او علامة نصبه کَسره ده ځکه جمع مؤنث سالم دی او په جمع مؤنث سالم کې کسره د فتحې نیابت کوي.",
+              "rootWord": "ص - ل - ح"
+            },
+            {
+              "id": "103-3-5",
+              "wordArabic": "وَتَوَاصَوْا۟ بِٱلْحَقِّ",
+              "partOfSpeech": "فعل",
+              "partOfSpeechPashto": "فعل ماضي مع الفاعل + جار او مجرور",
+              "grammaticalRolePashto": "معطوف جمله",
+              "caseEndingPashto": "فعل مبني پر ضم مقدر، باء حرف جر، الحق مجرور",
+              "harakah": "کسره",
+              "detailedIrabPashto": "فعل ماضي مبني پر ضم مقدر پر الف محذوفه، واو فاعل دی. بالحق: جار او مجرور متعلق به تواصوا.",
+              "rootWord": "و - ص - ي / ح - ق - ق"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "nameArabic": "سُورَةُ الفَاتِحَةِ",
+      "namePashto": "د فاتحې سورت (د قرآن پرانیستونکی سورت)",
+      "nameEnglish": "Al-Faatiha",
+      "revelationType": "مكية",
+      "revelationPashto": "مکي سورت (أم الکتاب)",
+      "ayahCount": 7,
+      "juzNumber": 1,
+      "summaryPashto": "ام الکتاب او سبع المثاني ده چې د ټول قرآن اساسي نحو، د الله ثناء، ربوبیت، هدایت، او د استعانت نحوي بنسټونه پکې ځای پر ځای شوي دي.",
+      "ayahs": [
+        {
+          "ayahNumber": 1,
+          "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "textPashto": "د الله په نوم چې ډېر زیات مهربان، بې حده رحم لرونکی دی.",
+          "overallTarkibPashto": "بِسْمِ جار ومجرور متعلق به محذوف فعل (أَقْرَأُ)، اللَّهِ مضاف الیه مجرور، الرَّحْمٰنِ اول نعت مجرور، الرَّحِيمِ دوهم نعت مجرور.",
+          "words": [
+            {
+              "id": "1-1-1",
+              "wordArabic": "بِسْمِ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "باء حرف جر + اسم مجرور او مضاف",
+              "grammaticalRolePashto": "جار او مجرور، مضاف",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "الباء حرف جر للاستعانة، اسْمِ اسم مجرور په کسر او مضاف دی. شبه جمله متعلق ده د محذوف فعل مؤخر مناسب مقام سره (أَبْدَأُ یا أَقْرَأُ).",
+              "rootWord": "س - م - و"
+            },
+            {
+              "id": "1-1-2",
+              "wordArabic": "ٱللَّهِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "لفظ الجلالة (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه مجرور تعظيماً",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "لفظ الجلالة مضاف الیه دی د (اسْمِ) لپاره، مجرور په ظاهره کسره تعظیماً.",
+              "rootWord": "أ - ل - ه"
+            },
+            {
+              "id": "1-1-3",
+              "wordArabic": "ٱلرَّحْمَٰنِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "صفت مشبهه (لومړی نعت)",
+              "grammaticalRolePashto": "نعت اول د لفظ الجلالة",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "نعت اول دی د لفظ الجلالة لپاره، مجرور دی په ظاهره کسره. صیغه یې پر وزن د (فَعْلان) ده چې پر عام او پراخ رحمت دلالت کوي.",
+              "rootWord": "ر - ح - م"
+            },
+            {
+              "id": "1-1-4",
+              "wordArabic": "ٱلرَّحِيمِ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "صفت مشبهه (دوهم نعت)",
+              "grammaticalRolePashto": "نعت ثانٍ د لفظ الجلالة",
+              "caseEndingPashto": "مجرور په ظاهره کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "نعت دوهم دی د لفظ الجلالة لپاره، مجرور په کسره. صیغه یې پر وزن د (فَعِيل) ده چې پر دوامدار او دایمي رحمت دلالت کوي.",
+              "rootWord": "ر - ح - م"
+            }
+          ]
+        },
+        {
+          "ayahNumber": 2,
+          "textArabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+          "textPashto": "ټولې ستاینې د هغه الله لپاره دي چې د ټولو جهانونو پالونکی دی.",
+          "overallTarkibPashto": "الْحَمْدُ مبتدأ مرفوع، لِلَّهِ جار او مجرور شبه جمله خبر، رَبِّ صفت یا بدل مجرور او مضاف، الْعَالَمِينَ مضاف الیه مجرور په ياء.",
+          "words": [
+            {
+              "id": "1-2-1",
+              "wordArabic": "ٱلْحَمْدُ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "اسم معرفه (مبتدأ)",
+              "grammaticalRolePashto": "مبتدأ مرفوع",
+              "caseEndingPashto": "مرفوع په ظاهره ضمه",
+              "harakah": "ضمه (ُ)",
+              "detailedIrabPashto": "مبتدأ دی، مرفوع دی په ظاهره ضمه. د (ال) توری دلته د استغراق لپاره دی یعنې هر ډول ستاینه یواځې الله لره ده.",
+              "rootWord": "ح - م - د"
+            },
+            {
+              "id": "1-2-2",
+              "wordArabic": "لِلَّهِ",
+              "partOfSpeech": "حرف",
+              "partOfSpeechPashto": "لام حرف جر للاستحقاق + لفظ الجلالة",
+              "grammaticalRolePashto": "جار او مجرور (شبه جمله خبر)",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "اللام حرف جر للاستحقاق او الاختصاص، لفظ الجلالة مجرور په کسره. شبه جمله په محل د رفع خبر د (الْحَمْدُ) دی.",
+              "rootWord": "أ - ل - ه"
+            },
+            {
+              "id": "1-2-3",
+              "wordArabic": "رَبِّ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "صفت اول یا بدل د لفظ الجلالة + مضاف",
+              "grammaticalRolePashto": "نعت مجرور",
+              "caseEndingPashto": "مجرور په کسره",
+              "harakah": "کسره (ِ)",
+              "detailedIrabPashto": "نعت دی د لفظ الجلالة لپاره، مجرور په ظاهره کسره، او همدا راز مضاف دی.",
+              "rootWord": "ر - ب - ب"
+            },
+            {
+              "id": "1-2-4",
+              "wordArabic": "ٱلْعَٰلَمِينَ",
+              "partOfSpeech": "اسم",
+              "partOfSpeechPashto": "ملحق بجمع المذكر السالم (مضاف إليه)",
+              "grammaticalRolePashto": "مضاف إليه مجرور په ياء",
+              "caseEndingPashto": "مجرور په ياء (فرعي علامة)",
+              "harakah": "ياء نيابتي",
+              "detailedIrabPashto": "مضاف الیه دی د (رَبِّ) لپاره، مجرور دی او د جر نښه یې (ياء) ده ځکه چې دا ملحق بجمع المذکر السالم دی، او نون یې مفتوحه ده.",
+              "rootWord": "ع - ل - م"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
